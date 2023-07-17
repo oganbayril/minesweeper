@@ -1,0 +1,1 @@
+Minesweeper game played at the terminal by inputting the row/column the user wants to open.
