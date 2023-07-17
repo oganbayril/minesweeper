@@ -115,6 +115,7 @@ class MineSweeper:
                 
             except ValueError:
                 print("Please enter integers only.")             
-                
+
+   
 game = MineSweeper()
 game.play()                                        
